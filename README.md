@@ -4,6 +4,9 @@ An intersting and useful automation tool on Windows, support GDMO[https://dmo.ga
 [![GitHub commit activity](https://img.shields.io/github/commit-activity/m/szh-bash/ProjectArk)](https://github.com/szh-bash/ProjectArk/commits/master)
 [![CodeFactor](https://www.codefactor.io/repository/github/szh-bash/ProjectArk/badge)](https://www.codefactor.io/repository/github/szh-bash/ProjectArk)
 [![GitHub Releases](https://img.shields.io/github/downloads/szh-bash/ProjectArk/latest/total?logo=github)](https://github.com/szh-bash/ProjectArk/releases)
+<a href="https://github.com/szh-bash/ProjectArk/issues">
+<img alt="Issues" src="https://img.shields.io/github/issues/anuraghazra/github-readme-stats?color=0088ff" />
+</a>
 <!--- [![Chat on Telegram](https://img.shields.io/badge/Chat%20on-Telegram-brightgreen.svg)]()--->
 
 ### How to use
