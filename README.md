@@ -1,13 +1,19 @@
-# ProjectArk
-An intersting and useful automation tool on Windows, support GDMO[https://dmo.gameking.com/] and DigimonRPG[https://dro.gameking.com/]
+<p align="center">
+ <img width="100px" src="https://github.com/szh-bash/szh-bash.github.io/blob/main/projectArk/resource/logo.ico" align="center" alt="" />
+</p>
 
+# ProjectArk
+An intersting and useful automation tool on Windows, support [GDMO](https://dmo.gameking.com/) and [DigimonRPG](https://dro.gameking.com/)
+
+[![Tests Passing](https://github.com/anuraghazra/github-readme-stats/workflows/Test/badge.svg)](https://github.com/szh-bash/ProjectArk/actions)
 [![GitHub commit activity](https://img.shields.io/github/commit-activity/m/szh-bash/ProjectArk)](https://github.com/szh-bash/ProjectArk/commits/master)
-[![CodeFactor](https://www.codefactor.io/repository/github/szh-bash/ProjectArk/badge)](https://www.codefactor.io/repository/github/szh-bash/ProjectArk)
+[![GitHub Issues](https://img.shields.io/github/issues/szh-bash/ProjectArk?color=0088ff)](https://github.com/szh-bash/ProjectArk/issues)
 [![GitHub Releases](https://img.shields.io/github/downloads/szh-bash/ProjectArk/latest/total?logo=github)](https://github.com/szh-bash/ProjectArk/releases)
-<a href="https://github.com/szh-bash/ProjectArk/issues">
-<img alt="Issues" src="https://img.shields.io/github/issues/anuraghazra/github-readme-stats?color=0088ff" />
-</a>
+<!-- [![CodeFactor](https://www.codefactor.io/repository/github/szh-bash/ProjectArk/badge)](https://www.codefactor.io/repository/github/szh-bash/ProjectArk) -->
 <!--- [![Chat on Telegram](https://img.shields.io/badge/Chat%20on-Telegram-brightgreen.svg)]()--->
+<!-- <a href="https://github.com/szh-bash/ProjectArk/issues">
+<img alt="Issues" src="https://img.shields.io/github/issues/szh-bash/ProjectArk?color=0088ff" />
+</a> -->
 
 ### How to use
 - If you are new to this, please download ProjectArk.exe from [releases](https://github.com/szh-bash/ProjectArk/releases)
