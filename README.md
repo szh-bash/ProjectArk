@@ -1,9 +1,8 @@
-<p align="center">
- <img width="100px" src="https://github.com/szh-bash/szh-bash.github.io/blob/main/projectArk/resource/logo.ico" align="center" alt="" />
-</p>
-
-# ProjectArk
-An intersting and useful automation tool on Windows, support [GDMO](https://dmo.gameking.com/) and [DigimonRPG](https://dro.gameking.com/)
+# ProjectArk <img src="https://github.com/szh-bash/szh-bash.github.io/blob/main/projectArk/resource/logo.ico" width="5%"></img>
+<!-- <h1 align="center">
+    <span>ProjectArk</span>
+  <img width="auto" height="50px" src="https://github.com/szh-bash/szh-bash.github.io/blob/main/projectArk/resource/logo.ico"/>
+</h1> -->
 
 [![](https://img.shields.io/badge/Dev-by%20Immortal.S-red?logo=github)](https://github.com/szh-bash/ProjectArk/)
 [![ver](https://img.shields.io/github/v/release/szh-bash/ProjectArk)](https://github.com/szh-bash/ProjectArk/releases)
@@ -17,6 +16,8 @@ An intersting and useful automation tool on Windows, support [GDMO](https://dmo.
 <!-- <a href="https://github.com/szh-bash/ProjectArk/issues">
 <img alt="Issues" src="https://img.shields.io/github/issues/szh-bash/ProjectArk?color=0088ff" />
 </a> -->
+
+An intersting and useful automation tool on Windows, support [GDMO](https://dmo.gameking.com/) and [DigimonRPG](https://dro.gameking.com/)
 
 ### How to use
 - If you are new to this, please download ProjectArk.exe from [releases](https://github.com/szh-bash/ProjectArk/releases)
